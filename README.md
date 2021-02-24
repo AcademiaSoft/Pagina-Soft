@@ -4,12 +4,6 @@
 
 
 ## Tabla de contenido
-
-
-[TOCM]
-
- [TOC]
-
 - [Academia Soft](#academia-soft)
   - [tabla de contenido](#tabla-de-contenido)
   - [introduccion](#introduccion)
@@ -59,9 +53,11 @@
 
 ## diseño de requerimientos 
 
-## desalloro.
-####CSS 57.5%
- ```CSS 
+## desalloro
+
+ CSS 57.5%
+
+  ```CSS 
 * {
     margin: 0;
     padding: 0;
@@ -101,8 +97,8 @@ h6 {
     animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
     border-color: #fff transparent transparent transparent;
   }
-```
- ####HTML 36.7%
+ ```
+ HTML 36.7%
  ```HTML 
 <html lang="es">
 <head>
@@ -135,7 +131,7 @@ h6 {
             </section>
         </nav>
 ```
- ##JavaScript  
+JavaScript 5.8%
 
 ```JavaScript 
 let ubicacionPrincipal = window.pageYOffset; //0
@@ -202,6 +198,7 @@ window.addEventListener("load", function(){
    - acciones diarias 
    - estructura administrativa 
    
+
 
 
 
