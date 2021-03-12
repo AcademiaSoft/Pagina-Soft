@@ -39,12 +39,17 @@
   | funciones de la pagina web|<lu><li>informacionde la academia</li><li>programas de formacion </li><li>caja de interesados en el plan de estudio</li></ul> 
   |procesos |<lu><li>Atencion al clinete </li><li> Maestros de cada materia</li><li>programador web</li><li>Decano</li></ul> 
 
+ 
+# requerimientos 
 
-## requerimientos 
-
- - RUT (Registro Único Tributario)
-
- - NIT (Número de Identificación Tributaria).
+  - programador de base de datos. 
+  - diseñador web. 
+  - estudiantes. 
+  - profesores. 
+  - plande negocios. 
+  - Area administrativa. 
+  - Area de dudas y respuestas (correo, Telefonico ,redes sociales )
+  
 
 ## levantamiento de requerimientos 
 
