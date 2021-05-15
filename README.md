@@ -36,8 +36,8 @@
    
   |reglas de negocio         |funciones | 
   |--------------------------|----------|
-  | funciones de la pagina web|<lu><li>informacionde la academia</li><li>programas de formacion </li><li>caja de interesados en el plan de estudio</li></ul> 
-  |procesos |<lu><li>Atencion al clinete </li><li> Maestros de cada materia</li><li>programador web</li><li>Decano</li></ul> 
+  | funciones de la pagina web|<lu><li>informacion de la pagina</li><li>programas de formacion </li><li>caja de interesados en el plan de estudio</li></ul> 
+  |procesos |<lu><li>Atencion al cliente </li><li> Maestros de cada materia</li><li>programador web</li><li>Decano</li></ul> 
 
  
 # requerimientos 
